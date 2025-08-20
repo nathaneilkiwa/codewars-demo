@@ -1,4 +1,5 @@
-My Awesome Project:
+My Awesome Project:<img width="1287" height="875" alt="Screenshot 2025-08-20 172758" src="https://github.com/user-attachments/assets/6d7cbac2-59a6-463f-b16d-75ccdc1d071b" />
+
 
 A repository dedicated to Codewars challenges (kata), featuring over 100 completed problems. Currently ranked #153 on the global leaderboard, with a new solutions added daily.
 
